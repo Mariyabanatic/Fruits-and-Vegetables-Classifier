@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fruits and Vegetable Classifier</string>
+    <string name="classifier">CLASSIFIER</string>
+    <string name="classify_fruits_and_vegetables">Classify Fruits And Vegetables</string>
+    <string name="click_below_to_capture_a_image">Click Below To Capture A Image</string>
+    <string name="classify">Classify</string>
+</resources>
